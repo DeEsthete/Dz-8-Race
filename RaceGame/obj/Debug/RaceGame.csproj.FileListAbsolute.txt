@@ -1,0 +1,9 @@
+c:\users\djoni\source\repos\RaceGame\RaceGame\bin\Debug\RaceGame.exe.config
+c:\users\djoni\source\repos\RaceGame\RaceGame\bin\Debug\RaceGame.exe
+c:\users\djoni\source\repos\RaceGame\RaceGame\bin\Debug\RaceGame.pdb
+c:\users\djoni\source\repos\RaceGame\RaceGame\bin\Debug\ClassLibrary.dll
+c:\users\djoni\source\repos\RaceGame\RaceGame\bin\Debug\ClassLibrary.pdb
+c:\users\djoni\source\repos\RaceGame\RaceGame\obj\Debug\RaceGame.csprojResolveAssemblyReference.cache
+c:\users\djoni\source\repos\RaceGame\RaceGame\obj\Debug\RaceGame.csproj.CoreCompileInputs.cache
+c:\users\djoni\source\repos\RaceGame\RaceGame\obj\Debug\RaceGame.exe
+c:\users\djoni\source\repos\RaceGame\RaceGame\obj\Debug\RaceGame.pdb

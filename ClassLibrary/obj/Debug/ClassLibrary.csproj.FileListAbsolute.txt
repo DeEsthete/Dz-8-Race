@@ -1,0 +1,6 @@
+c:\Users\djoni\source\repos\RaceGame\ClassLibrary\bin\Debug\ClassLibrary.dll
+c:\Users\djoni\source\repos\RaceGame\ClassLibrary\bin\Debug\ClassLibrary.pdb
+c:\Users\djoni\source\repos\RaceGame\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+c:\Users\djoni\source\repos\RaceGame\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+c:\Users\djoni\source\repos\RaceGame\ClassLibrary\obj\Debug\ClassLibrary.dll
+c:\Users\djoni\source\repos\RaceGame\ClassLibrary\obj\Debug\ClassLibrary.pdb
