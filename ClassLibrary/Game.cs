@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
+    public delegate void Get(string message);
     public class Game
     {
+        Get GetMessage;
         public List<Car> Car { get; set; }
         public int Finish { get; set; }
         public string Winner { get; set; }
@@ -49,8 +51,25 @@ namespace ClassLibrary
                 }
             }
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Победитель: " + Winner);
+            string Message = "Победитель: " + Winner;
+            Register(ShowMessage);
+            Console.WriteLine(Message);
             Console.ForegroundColor = ConsoleColor.White;
+        }
+
+        public void Register(Get tmp)
+        {
+            GetMessage = tmp;
+        }
+
+        public void UnRegister()
+        {
+            GetMessage = null;
+        }
+
+        public void ShowMessage(string Message)
+        {
+            Console.WriteLine(Message);
         }
         #endregion
     }
